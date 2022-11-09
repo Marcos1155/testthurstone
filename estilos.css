@@ -1,0 +1,392 @@
+#pagina inicio1
+
+#principalinicio{
+    margin: 0%;    
+    width: 100%;
+    height: 675px;
+  
+}
+
+.headerinicio{
+    float: left;
+    width: 100%;
+    height: 85px;
+    margin: 0;
+    background-color: aqua;
+}
+
+.ingresar{
+
+    float: right;
+}
+
+.izquierdainicio{
+    float: left;
+    width: 35%;
+    height:540px;
+    
+
+}
+.centroinicio{
+    float: left;
+    width: 20%;
+    height:400px;
+    margin: 80px 5% 0px 5%;
+    
+}
+
+.botoninicio{
+    width: 100px;
+    height: 50px;
+    margin: 150px 0px 0px 80px;
+}
+
+.derechainicio{
+    float: left;
+    width: 35%;
+    height: 540px;
+
+}
+
+
+.footerinicio{
+    width: 100%;
+    height: 50px;
+    float: right;
+    margin: 0;
+    
+}
+
+.parrafoinicio{
+    text-align: end;
+    float: right;
+}
+
+
+
+
+
+
+
+#pagina de datos estudiante2
+
+#principaldatos{
+    margin: 0%;    
+    width: 100%;
+    height: 675px;
+    float: left;
+  
+}
+.headerdatos{
+    float: left;
+    width: 100%;
+    height: 85px;
+    background-color: aqua;
+    margin: 0;
+
+}
+
+.instrucciondatos{
+    float: left;
+    width: 30%;
+    height: 540px;
+    
+}
+
+.datosestudiante{
+    float: left;
+    width: 70%;
+    height: 540px;
+ 
+}
+
+form.formulario1{
+    margin: 25px 25px 25px 25px;
+}
+
+.footerdatos{
+    width: 100%;
+    height: 50px;
+     
+    float: left;
+    margin-top: auto;
+}
+.parrafodatos{
+    text-align: end;
+    float: right;
+}
+
+
+
+
+
+
+
+#pagina envio datos estudiante3
+
+#principalenvio{
+    margin: 0%;    
+    width: 100%;
+    height: 675px;
+  
+}
+
+.headerenvio{
+    float: left;
+    width: 100%;
+    height: 85px;
+    background-color: aqua;
+    margin: 0;
+
+}
+
+
+.izquierdaenvio{
+    float: left;
+    width: 30%;
+    height:540px;
+    
+    
+
+}
+
+.derechaenvio{
+    float: left;
+    width: 70%;
+    height: 540px;
+    
+
+}
+
+
+.footerenvio{
+    width: 100%;
+    height: 50px;
+    
+    float: right;
+    
+}
+
+.parrafoenvio{
+    text-align: end;
+float: right;
+}
+
+
+
+
+
+
+#pagina del test4
+
+#principaltest{
+    margin: 0%;    
+    width: 100%;
+    height: 1200px;
+    float: left;
+    
+}
+.headertest{
+
+    float: left;
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+    margin: 0;
+     
+}
+
+.instrucciontest{
+    float: left;
+    width: 100%;
+    height: 100px;
+     
+}
+
+.datostest{
+    float: left;
+    width: 100%;
+    height: 980px;
+    background-color: aqua;
+    
+}
+
+
+table{
+    border-collapse: collapse;
+    margin: 5px 5px 5px 5px;
+    width: 99%;
+}
+
+table.tabla1 tr td{
+    
+    border: solid black;
+    border-width: 1px;
+    padding-left: 0.5em;
+    text-align: center;
+
+}
+
+.footertest{
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: auto;
+}
+.parrafotest{
+    text-align: end;
+    float: right;
+}
+
+
+
+
+#pagina base de datos test
+
+#dbtest{
+    margin: 0%;    
+    width: 100%;
+    height: 675px;
+    float: left;
+     
+}
+.headerdbtest{
+    float: left;
+    width: 100%;
+    height: 85px;
+    background-color: aqua;
+    margin: 0;
+
+}
+
+.instrucciondbtest{
+    float: left;
+    width: 20%;
+    height: 540px;
+    
+}
+
+.datosdbtest{
+    float: left;
+    width: 80%;
+    height: 540px;  
+}
+
+
+.footerbdtest{
+    width: 100%;
+    height: 50px;
+     
+    float: left;
+    margin-top: auto;
+}
+.parrafodatos{
+    text-align: end;
+    float: right;
+}
+
+
+#pagina del informe
+
+#informe{
+    margin: 0%;    
+    width: 100%;
+    height: 1305px;
+    float: left;
+     
+}
+.headerinforme{
+    float: left;
+    width: 100%;
+    height: 85px;
+    background-color: aqua;
+    margin: 0;
+
+}
+
+.instruccioninforme{
+    float: left;
+    width: 15%;
+    height: 1170px;
+ 
+}
+
+.datosinforme{
+    float: left;
+    width: 85%;
+    height: 420px;
+}
+
+.areagrafica{
+    float: left;
+    width: 85%;
+    height: 450px;
+     
+}
+
+.datosinforme2{
+    float: left;
+    width: 85%;
+    height: 300px;
+    
+}
+
+
+.footerinforme{
+    width: 100%;
+    height: 50px;
+     
+    float: left;
+    margin-top: auto;
+}
+.parrafodatos{
+    text-align: end;
+    float: right;
+}
+
+
+#pagina base de datos informe
+
+
+
+#informebd{
+    margin: 0%;    
+    width: 100%;
+    height: 675px;
+    float: left;
+ }
+.headerinformebd{
+    float: left;
+    width: 100%;
+    height: 85px;
+    background-color: aqua;
+    margin: 0;
+
+}
+
+.instruccioninformebd{
+    float: left;
+    width: 20%;
+    height: 540px;
+ 
+}
+
+.datosinformebd{
+    float: left;
+    width: 80%;
+    height: 540px;
+  
+}
+
+
+.footerinformebd{
+    width: 100%;
+    height: 50px;
+ 
+    float: left;
+    margin-top: auto;
+}
+.parrafodatos{
+    text-align: end;
+    float: right;
+}
